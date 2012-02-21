@@ -9,5 +9,8 @@
 		     "url": "https://github.com/nicoreed"
        }
      ],
-    "difficulty": 1
+    "difficulty": 2,
+    "categories": [
+      ["JavaScript"]
+    ]
 }
